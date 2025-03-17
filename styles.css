@@ -1,0 +1,125 @@
+body{
+    background-color:#00094B;
+}
+
+.header{
+    display: flex;
+    border-color: #E2725b;
+    border-style: solid;
+    border-width: 5px;
+    justify-content: space-evenly;
+}
+
+ul{
+    list-style-type: none;
+    display:flex;
+    justify-content: space-between;
+    gap: 150px;
+    margin: 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+li{
+    font-size: 35px;
+    color: #E2725b;
+    text-decoration: none;
+    padding: 25px;
+}
+
+#links{
+    display: flex;
+    justify-content: center;
+}
+
+
+a:link {
+    color: #E2725b;
+  }
+
+a:visited {
+    color: #E2725b;
+  }
+
+a:hover {
+    color: blue;
+    background-color: aqua;
+  }
+
+a:active {
+    color: hotpink;
+  }
+
+#bio{
+    color: #E2725b;
+    text-align: center;
+    font-size: 21px;
+    line-height: 1.8;
+  }
+
+h1{
+    color: #E2725b;
+    text-align: center;
+    font-size: 40px;
+  }
+
+#main_pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+#bio-part-1{
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+#bio1{
+    color: #E2725b;
+    text-align: center;
+    font-size: 21px;
+    line-height: 1.4;
+}
+
+#pbio1{
+    border-color: #E2725b;
+    border-style: solid;
+    border-width: 5px;
+    width: 600px;
+    height: 460px;
+    border-radius: 8px;
+}
+
+#Garfield{
+    width: 550px;
+    border-radius: 8px;
+}
+
+#bio-part-2{
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+}
+
+#bio2{
+    color: #E2725b;
+    text-align: center;
+    font-size: 21px;
+    line-height: 1.4;
+}
+
+
+#pbio2{
+    border-color: #E2725b;
+    border-style: solid;
+    border-width: 5px;
+    width: 620px;
+    height: 360px;
+    border-radius: 8px;
+}
+
+#East_Orange{
+    width: 350px;
+    height: 375px;
+    border-radius: 8px;
+}
